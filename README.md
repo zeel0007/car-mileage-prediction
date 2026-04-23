@@ -1,4 +1,4 @@
-# 🚗 Car Mileage Prediction (End-to-End Data Science Project)
+<img width="743" height="895" alt="Screenshot 2026-04-23 at 10 39 34 PM" src="https://github.com/user-attachments/assets/31ca7bd3-b3fb-4703-b963-f6cdac142054" /># 🚗 Car Mileage Prediction (End-to-End Data Science Project)
 
 Welcome to the **Car Mileage Prediction** project! This project demonstrates a complete end-to-end Data Science workflow — from data analysis to machine learning model deployment using a Django web application.
 
